@@ -23,6 +23,12 @@ The approved mobile card page has four parts:
 
 Printing-specific topics will use categories and filters inside **This Printing**, not a collection of separate subforums.
 
+## Interactive prototype
+
+The first [low-fidelity mobile card-page wireframe](prototypes/card-page-wireframe.html) demonstrates printing navigation and search, universal and selected-printing information, discussion scope tabs, topic filters, saving, and scoped post creation.
+
+The file contains sample data and is not production code. Download it or clone the repository, then open it directly in a web browser; no installation or build step is required.
+
 ## First-release scope
 
 The planned MVP includes:
@@ -50,14 +56,14 @@ The first release is not intended to be a marketplace, deck builder, or full col
 
 ## Project status
 
-The initial product-definition stage is complete. The product brief, core product decisions, and canonical mobile card-page structure are approved. The project is ready to begin low-fidelity prototyping. No application stack has been selected and no production code has been written.
+The initial product-definition stage is complete. The product brief, core product decisions, and canonical mobile card-page structure are approved. Low-fidelity prototyping is now underway, beginning with the card page. No application stack has been selected and no production code has been written.
 
-The next step is a low-fidelity clickable prototype. That prototype will be tested with Magic players and collectors before technical design and development begin.
+The current step is to review and refine the card-page prototype before expanding the clickable flow to Home/Search and Search Results. The completed prototype will be tested with Magic players and collectors before technical design and development begin.
 
 ## Current roadmap
 
 1. Organize the product definition — **Complete**
-2. Create low-fidelity mobile wireframes — **Next**
+2. Create low-fidelity mobile wireframes — **In progress**
 3. Test the concept with players and collectors
 4. Complete technical discovery
 5. Build the MVP
