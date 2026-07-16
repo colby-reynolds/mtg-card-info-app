@@ -20,7 +20,11 @@ Exit point:
 
 ## Stage 2: Create low-fidelity wireframes
 
-**Status:** Next
+**Status:** In progress
+
+Current progress:
+
+- The first standalone [mobile card-page wireframe](prototypes/card-page-wireframe.html) is available for review and iteration
 
 Goals:
 
@@ -144,4 +148,4 @@ Unless user testing changes the product direction, these should remain outside t
 
 ## Next action
 
-Create the first low-fidelity mobile wireframe for the card page, using the approved structure in [card-page-specification.md](card-page-specification.md).
+Review and refine the first low-fidelity card-page wireframe using the approved structure in [card-page-specification.md](card-page-specification.md). Once the card page's core interactions are approved, create the Home/Search and Search Results wireframes and connect them into the first complete lookup flow.
