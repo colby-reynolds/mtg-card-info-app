@@ -4,7 +4,7 @@ A mobile-first reference and discussion app where every Magic: The Gathering car
 
 ## The idea
 
-Card-specific knowledge is scattered across Reddit, Discord, YouTube, marketplaces, deck apps, forums, and social media. Useful conversations are hard to find later, and most card apps are built around deck construction, collection tracking, pricing, or buying and selling.
+Card-specific knowledge is scattered across Gatherer, Reddit, Discord, YouTube, marketplaces, deck apps, forums, and social media. Useful conversations are hard to find later, and most card apps are built around deck construction, collection tracking, pricing, or buying and selling.
 
 This project takes a different approach: the card page is the center of the experience. A user can search for a card, move between its printings, review information about the card or a particular release, and join a discussion without digging through unrelated threads.
 
