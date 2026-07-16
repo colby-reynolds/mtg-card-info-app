@@ -4,7 +4,7 @@
 
 The MTG Card Info App is a mobile application where each Magic: The Gathering card has a dedicated reference and discussion page.
 
-A user should be able to search for a card, review its general card information, move between its different printings, and read or join conversations tied either to the card as a whole or to one specific printing.
+A user should be able to search for a card, review its universal card information, move between its different printings, and read or join conversations tied either to the card as a whole or to one specific printing.
 
 The goal is not to replace every existing Magic app. The goal is to organize card-specific knowledge and discussion better than a general forum, social feed, or chat server.
 
@@ -54,7 +54,7 @@ The first usable version should include:
 2. A searchable Magic card database
 3. A dedicated page for each card
 4. A way to browse and select individual printings
-5. General card information and official rules text
+5. Universal card information and official rules text
 6. Printing-specific information
 7. An all-printings discussion feed
 8. A selected-printing discussion feed
