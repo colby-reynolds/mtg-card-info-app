@@ -12,7 +12,7 @@ The first version is focused on Magic: The Gathering. It is intended for players
 
 ## How the card page works
 
-The approved mobile card page has four parts:
+The mobile card page has four parts:
 
 1. **Card image and printing selector** — The page opens on the user's last-selected printing or the printing that brought them to the page. Otherwise, it uses the most recent standard English tabletop printing or a designated representative printing. Users can swipe between printings or open a searchable **All Printings** selector.
 2. **Universal card information** — Details shared by every printing, including the card's name, rules text, mana cost, type line, and other gameplay information.
